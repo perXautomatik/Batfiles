@@ -1,0 +1,3 @@
+move "C:\Program Files\GOG.com\Icewind Dale Complete\mpsave\000000000-Auto-Save\*.*" "C:\Program Files\GOG.com\Icewind Dale Complete\mpsave\temp"
+move "C:\Program Files\GOG.com\Icewind Dale Complete\mpsave\000000001-Quick-Save\*.*" "C:\Program Files\GOG.com\Icewind Dale Complete\mpsave\000000000-Auto-Save"
+move "C:\Program Files\GOG.com\Icewind Dale Complete\mpsave\temp\*.*" "C:\Program Files\GOG.com\Icewind Dale Complete\mpsave\000000001-Quick-Save"

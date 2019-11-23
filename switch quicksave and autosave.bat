@@ -1,0 +1,4 @@
+move "\\SABRINA-F11EFAE\GOG.com\Icewind Dale Complete\mpsave\000000000-Auto-Save\*.*" "\\SABRINA-F11EFAE\GOG.com\Icewind Dale Complete\mpsave\temp"
+copy "\\SABRINA-F11EFAE\GOG.com\Icewind Dale Complete\mpsave\000000001-Quick-Save\*.*" "C:\Program Files\GOG.com\Icewind Dale Complete\mpsave\000000001-Quick-Save"
+move "\\SABRINA-F11EFAE\GOG.com\Icewind Dale Complete\mpsave\000000001-Quick-Save\*.*" "\\SABRINA-F11EFAE\GOG.com\Icewind Dale Complete\mpsave\000000000-Auto-Save\"
+move "\\SABRINA-F11EFAE\GOG.com\Icewind Dale Complete\mpsave\temp\*.*" "\\SABRINA-F11EFAE\GOG.com\Icewind Dale Complete\mpsave\000000001-Quick-Save\"
