@@ -1,0 +1,1 @@
+%SystemRoot%\System32\RUNDLL32.EXE shell32.dll,Control_RunDLL hotplug.dll

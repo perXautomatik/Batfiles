@@ -1,0 +1,1 @@
+"E:\random\PortableApps\commandsindemand\Data\nircmd.exe" waitprocess "E:\random\PortableApps\commandsindemand\Commands in Demand.exe" cmdwait 4000 exec show "E:\random\PortableApps\commandsindemand\Commands in Demand.exe"

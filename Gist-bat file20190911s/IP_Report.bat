@@ -1,0 +1,1 @@
+C:\WINDOWS\system32\ipconfig.exe /all >> "E:\PortableApps\commandsindemand\Data\IP_Report.txt"

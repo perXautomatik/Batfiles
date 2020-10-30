@@ -1,0 +1,1 @@
+C:\WINDOWS\system32\taskkill.exe /f /fi "status eq not responding"

@@ -1,0 +1,1 @@
+C:\WINDOWS\system32\systeminfo.exe > "E:\PortableApps\commandsindemand\Data\Operating_Sys_ID.txt"

@@ -1,0 +1,1 @@
+java -jar "C:\Users\Christoffer\IdeaProjects\git\simpleFolderMerger\out\artifacts\simpleFolderMerger_jar\simpleFolderMerger.jar" "C:\Users\Christoffer\Desktop\New folder (2)\New folder" , "C:\Users\Christoffer\Desktop\New folder (2)\New folder (2)"

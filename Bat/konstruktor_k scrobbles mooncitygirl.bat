@@ -1,0 +1,1 @@
+java -jar "C:\Users\Christoffer\IdeaProjects\scrobbleUserContinualy\out\artifacts\scrobbleUserContinualy_jar\scrobbleUserContinualy.jar" -u mooncitygirl -g konstruktor_k

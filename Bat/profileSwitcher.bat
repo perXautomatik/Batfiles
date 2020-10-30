@@ -1,0 +1,1 @@
+java -jar "C:\Users\Christoffer\IdeaProjects\ProcurementProfileSwitcher\out\artifacts\ProcurementProfileSwitcher_jar\ProcurementProfileSwitcher.jar"

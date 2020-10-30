@@ -1,0 +1,1 @@
+for /F "tokens=*" %%A in (C:\Users\Christoffer\Desktop\myfile.txt) do (dir /a /b "%~fA" 2>nul | findstr "^" >nul || echo %%A >> C:\Users\Christoffer\Desktop\ressult.txt)
